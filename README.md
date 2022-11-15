@@ -1,7 +1,6 @@
 # Data Science and Analytics with Python
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-![Platforms](https://img.shields.io/badge/platform-iOS-lightgrey.svg)
 [![Python Version](https://img.shields.io/badge/python-3.x-orange)](https://www.python.org)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Twitter](https://img.shields.io/badge/twitter-quantum__tunnel-blue)](http://twitter.com/quantum_tunnel)
